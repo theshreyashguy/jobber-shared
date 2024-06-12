@@ -22,7 +22,7 @@
   "author": "shreyash",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theshreyashguy/jobber-shared"
+    "url": "git+https://github.com/theshreyashguy/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
