@@ -18,8 +18,8 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@shreyash/jobber-shared",
-  "author": "shreyash",
+  "name": "@theshreyashguy/jobber-shared",
+  "author": "theshreyashguy",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/theshreyashguy/jobber-shared.git"
